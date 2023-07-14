@@ -1,2 +1,2 @@
 # java-proxy
-proxy server project
+java proxy server project for CSE471
